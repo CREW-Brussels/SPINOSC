@@ -1,0 +1,21 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SPINOSC",
+	"Description": "Tool for processing SPIN over OSC messages",
+	"Category": "SPIN",
+	"CreatedBy": "CREW",
+	"CreatedByURL": "http://crew.brussels",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "OSC",
+			"Enabled": true
+		}
+	]
+}
