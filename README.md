@@ -1,7 +1,7 @@
 # CREW OSC Tracker
  CREW OSC Tracker is an Unreal Engine Plugin that creates a link between our [SPIN](https://github.com/CREW-Brussels/SPIN) system and Unreal Engine 5.3. As a reminder, SPIN is a utility hub for streaming spatial peripherals over the network.
 ***
- ## How to use CREW OSC TRacker Plugin?
+ ## How to use CREW OSC Tracker Plugin?
 
 This plugin contains a set of blueprints, useful to make the link between the SPIN app and an Unreal project.
 ***
