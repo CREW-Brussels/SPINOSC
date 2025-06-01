@@ -4,7 +4,16 @@
  ## How to use CREW OSC Tracker Plugin?
 
 This plugin contains a set of blueprints, useful to make the link between the SPIN app and an Unreal project.
+
 ***
+Requirements:
+- Unreal Engine 5.3
+- [Download](https://github.com/CREW-Brussels/SPINOSCgit) the plugin's folder in the Plugins folder of your project here or if your project is on git, add this command in the Plugins folder of your project:
+```
+git add submodule https://github.com/CREW-Brussels/SPINOSC.git
+```
+***
+
 ### OSCServer 
 
 The OSCServer Blueprint, when **put in the scene**(Drag and drop it in the scene), will allow you to receive the log information of the trackers, when the app is open in a headset. That way, you will be able to get the name of the tracker(s) you want to use, since their roles have been created earlier on the webpage of the app. This is possible, because SPIN is broadcasting.
